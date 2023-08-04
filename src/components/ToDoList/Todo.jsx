@@ -1,4 +1,4 @@
-import "./index.scss";
+import "./Index.scss";
 import trash from "../../images/trash.png"
 import pencil from "../../images/edit.png"
 import { useState } from "react";
